@@ -42,6 +42,7 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/10423731-970e-4718-96ed-570e63256148" />
 
 
 ### Procedure for Association Rules:
